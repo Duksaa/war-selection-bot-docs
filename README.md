@@ -1,6 +1,6 @@
 # Privacy Policy for War Selection Official Bot
 
-**Effective Date:** April 2024
+**Effective Date:** April 2026
 
 This Privacy Policy explains how the War Selection Official Bot ("Bot") processes information. Our priority is user privacy, and we do not store your data outside of Discord.
 
