@@ -1,1 +1,0 @@
-# war-selection-bot-docs
