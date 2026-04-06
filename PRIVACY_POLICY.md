@@ -18,7 +18,7 @@ We use the Message Content Intent to:
 
 ## 3. Data Storage and Retention
 - Logs are stored securely and are only accessible by authorized server staff.
-- Message content is stored for a maximum of [uneseš broj, npr. 14 or 30] days, after which it is automatically deleted.
+- Message content is stored for a maximum of 30 days, after which it is automatically deleted.
 
 ## 4. User Rights and Opt-out
 Users can opt-out of message logging by:
